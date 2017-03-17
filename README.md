@@ -1,3 +1,1 @@
-# FIS3_demo
-基于Fis3的前端项目 模板Vm
-
+#基于Flash的starling手机游戏项目
