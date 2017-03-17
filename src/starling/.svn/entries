@@ -1,0 +1,58 @@
+10
+
+dir
+1503
+svn://192.168.1.66/zhuanyedajiangyou/ClientCRLLXL2/src/starling
+svn://192.168.1.66/zhuanyedajiangyou
+
+
+
+2014-06-13T05:58:58.838922Z
+1486
+guoguobang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6838d10e-799c-432b-be1d-91d90b5a31b2
+
+animation
+dir
+
+extensions
+dir
+
+utils
+dir
+
+textures
+dir
+
+events
+dir
+
+text
+dir
+
+display
+dir
+
+core
+dir
+
+filters
+dir
+
+errors
+dir
+
